@@ -1,2 +1,2 @@
 ele=list(map(int,input().split()))
-print(ele)
+print(min(ele))
