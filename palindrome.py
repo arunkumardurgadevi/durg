@@ -4,5 +4,6 @@ for i in n:
   w=i+w
   if(n==w):
     print("yes")
-  else:
+    break
+else:
     print("no")
