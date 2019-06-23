@@ -4,4 +4,4 @@ for i in word:
     print("yes")
     break
 else:
-  print("no"
+  print("no")
